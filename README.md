@@ -12,6 +12,8 @@ This project demonstrates a basic Hardhat-network-helpers use case. It comes wit
 
 After forking repo type ```npm i``` in your terminal.
 
+Cross-check the package version if you stuck somewhere.
+
 For Smart Contract 
 
 Try running some of the following tasks:
